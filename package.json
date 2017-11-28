@@ -1,29 +1,25 @@
 {
-  "name": "friend_finder",
+  "name": "heroku-friendfinder",
   "version": "1.0.0",
-  "description": "fullstack friend finder app using node, express",
-  "main": "server.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apatron100/FriendFinder.git"
+    "url": "git+https://github.com/apatron100/heroku-friendfinder.git"
   },
-  "keywords": [
-    "express",
-    "node"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/apatron100/FriendFinder/issues"
+    "url": "https://github.com/apatron100/heroku-friendfinder/issues"
   },
-  "homepage": "https://github.com/apatron100/FriendFinder#readme",
+  "homepage": "https://github.com/apatron100/heroku-friendfinder#readme",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "path": "^0.12.7"
   }
 }
