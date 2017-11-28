@@ -1,0 +1,49 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+	/*background-color: #3367d6;*/
+	background-color: #224daa;
+	margin-bottom: 60px;
+}
+
+.jumbotron {
+	text-align: left;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+footer {
+	color: #ffffff;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+h3 {
+	font-weight: 2;
+}
+
+.well {
+	background-color: #eeeeee;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+select {
+	min-width: 387px;
+}
